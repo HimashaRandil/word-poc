@@ -11,12 +11,12 @@
   <DisplayName DefaultValue="Word API POC"/>
   <Description DefaultValue="Simple test of Word JavaScript API"/>
   
-  <IconUrl DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/word-poc/taskpane-simple.html"/>
-  <HighResolutionIconUrl DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/word-poc/taskpane-simple.html"/>
-  <SupportUrl DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/word-poc"/>
+  <IconUrl DefaultValue="https://HimashaRandil.github.io/word-poc/taskpane-simple.html"/>
+  <HighResolutionIconUrl DefaultValue="https://HimashaRandil.github.io/word-poc/taskpane-simple.html"/>
+  <SupportUrl DefaultValue="https://HimashaRandil.github.io/word-poc"/>
   
   <AppDomains>
-    <AppDomain>https://YOUR_GITHUB_USERNAME.github.io</AppDomain>
+    <AppDomain>https://HimashaRandil.github.io</AppDomain>
   </AppDomains>
   
   <Hosts>
@@ -24,7 +24,7 @@
   </Hosts>
   
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/word-poc/taskpane-simple.html"/>
+    <SourceLocation DefaultValue="https://HimashaRandil.github.io/word-poc/taskpane-simple.html"/>
   </DefaultSettings>
   
   <Permissions>ReadWriteDocument</Permissions>
